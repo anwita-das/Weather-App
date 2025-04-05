@@ -18,4 +18,4 @@ A sleek and responsive **Weather Web Application** that fetches **real-time weat
 - CSS  
 - JavaScript  
 - [OpenWeatherMap API](https://openweathermap.org/api)  
-- SVG icons for weather conditions  # Weather App ⛅
+- SVG icons for weather conditions
